@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tory 
 
-<!--
-**torybaxter/torybaxter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Front-End Developer** based in Seattle, with roots in Chicago and Los Angeles. I spend my time building interactive websites that support artists, small businesses, and nonprofits — combining design, code, and creativity to create meaningful digital tools.
 
-Here are some ideas to get you started:
+My background is in **branding strategy, design, cause marketing, and film production**, so I bring a unique perspective to building web experiences. I love mountains, giant trees, coffee, and my two cats. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS, Chakra UI  
+- **Tools:** Git, GitHub, VSCode, Figma
+- **Other:** Responsive website design, accessibility, API integration
+- **CMS Platforms:** Yes I use them! Squarespace, Shopify, Cargo Collective
+
+## Featured Projects
+- **[Portfolio Rebuild](https://torybn.dev)** – My personal website rebuilt in React, featuring responsive design and modern UI.  
+- **[Weather App](https://github.com/yourusername/weather-app)** – Fetches real-time weather data using React + OpenWeather API.  
+- **[To-Do App](https://github.com/yourusername/todo-app)** – Fully functional CRUD app built with React and local storage.  
+
+## Contact
+- Portfolio: [torybn.com](https://torybn.com)  
+- LinkedIn: [linkedin.com/in/torybn](https://linkedin.com/in/torybn)  
+- Email: hello@nitedesk.studio
+
