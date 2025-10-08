@@ -11,9 +11,7 @@ My background is in **branding strategy, design, cause marketing, and film produ
 - **CMS Platforms:** Yes I use them! Squarespace, Shopify, Cargo Collective
 
 ## Featured Projects
-- **[Portfolio Rebuild](https://torybn.dev)** – My personal website rebuilt in React, featuring responsive design and modern UI.  
-- **[Weather App](https://github.com/yourusername/weather-app)** – Fetches real-time weather data using React + OpenWeather API.  
-- **[To-Do App](https://github.com/yourusername/todo-app)** – Fully functional CRUD app built with React and local storage.  
+- Coming Soon...
 
 ## Contact
 - Portfolio: [torybn.com](https://torybn.com)  
